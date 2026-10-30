@@ -1,0 +1,24 @@
+{
+  "entries": {
+    "[\"RiveraDelOeste\",\"amenidades\",\"Puente\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": -163,
+        "fov": 90
+      },
+      "signature": "e30a728ee5431083589a513e4d67cdfbd694223a100270541aabe91283d5a5ef",
+      "outputSize": 276015,
+      "outputMtime": 1793308963618.8022
+    },
+    "[\"RiveraDelOeste\",\"amenidades\",\"Cancha\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "e1fc2fcff50e2747c5abe4677c42ecc568922856f9af6804fad534e8d2182218",
+      "outputSize": 216504,
+      "outputMtime": 1793309177428.1724
+    }
+  }
+}
